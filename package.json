@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "author": "evgeniimal",
   "license": "ISC",
   "bugs": {
@@ -14,5 +15,6 @@
   "devDependencies": {
     "@types/node": "^16.11.4",
     "eslint": "^7.32.0"
+    
   }
 }
